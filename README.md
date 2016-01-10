@@ -1,7 +1,7 @@
 # SinkaDotCom
 Small project while learning Java
 
-This project is coded while my learn Java from the book "Head First Java". It might be similar to the code in this book. 
+This project is coded while my learning Java from the book "Head First Java". It might be similar to the code in this book. 
 I'm not going to break anyone's copy right, but just an adivse: That is when anyone who want to use these pieces of code, 
 please do anounce it's from that book. We should to honor the author's hard work. Thank you very much for the attentions.
 
